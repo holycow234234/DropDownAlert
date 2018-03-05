@@ -11,5 +11,5 @@ UINavigationController is optional, you only need to provide it if you want the 
 
 Be sure to call this from the main thread (you probably knew that though didn't you?).
 
-![screenshot](/images/screenshot.png )
+![screenshot](/Images/screenshot.png )
 
